@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="super-app-runtime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/super-app-runtime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
